@@ -1,4 +1,4 @@
-# Image- Processing Overlay and Blending
+# Image Processing: Overlap and Blending
 With the pictures from the repository (background of a sky and image of a ghost), 
 
 The python script can create 2 images: 
